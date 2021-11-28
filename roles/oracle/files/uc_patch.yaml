@@ -1,0 +1,370 @@
+'1900':
+  opatch_file: p6880880_190000_Linux-x86-64.zip
+  patches:
+    October2021(211019):
+      patch_id: 33248420
+      description: Combo of OJVM Component Release Update 19.13.0.0.211019 + Database Oct 2021 Release Update 19.13.0.0.211019 
+      file_name: p33248420_190000_Linux-x86-64.zip 
+    July 2021(210720):
+      patch_id: 32900021
+      description: Combo OJVM Release Update 19.12.0.0.210720 and Database Release Update 19.12.0.0.210720
+      file_name: p32900021_190000_Linux-x86-64.zip
+    April 2021(210420):
+      patch_id: 32578972
+      description: COMBO OF OJVM RU COMPONENT 19.11.0.0.210420 + DB RU 19.11.0.0.210420 
+      file_name: p32578972_190000_Linux-x86-64.zip
+    January 2021(210119):
+      patch_id: 32126828
+      description: Combo of OJVM Component Release Update 19.10.0.0.210119 + Database Jan 2021 Release Update 19.10.0.0.210119 
+      file_name: p32126828_190000_Linux-x86-64.zip
+    October 2020 (201020):
+      patch_id: 31720396
+      description: COMBO OF OJVM RU COMPONENT 19.9.0.0.201020 + DB RU 19.9.0.0.201020
+      file_name: p31720396_190000_Linux-x86-64.zip
+    July 2020 (200714):
+      patch_id: 31326362
+      description: COMBO OF OJVM RU COMPONENT 19.8.0.0.200714 DB RU 19.8.0.0.200714
+      file_name: p31326362_190000_Linux-x86-64.zip</file_name>
+    April 2020 (200414):
+      patch_id: 30783543
+      description: COMBO OF OJVM RU COMPONENT 19.7.0.0.200414 DB RU 19.7.0.0.200414
+      file_name: p30783543_190000_Linux-x86-64.zip</file_name>
+    January 2020 (200114):
+      patch_id: 30463595
+      description: COMBO OF OJVM RU COMPONENT 19.6.0.0.200114 DB RU 19.6.0.0.200114
+      file_name: p30463595_190000_Linux-x86-64.zip</file_name>
+    October 2019 (191015):
+      patch_id: 30133124
+      description: COMBO OF OJVM RU COMPONENT 19.5.0.0.191015 DB RU 19.4.0.0.191015
+      file_name: p30133124_190000_Linux-x86-64.zip
+    July 2019 (190716):
+      patch_id: 29699079
+      description: COMBO OF OJVM RU COMPONENT 19.4.0.0.190716 + DB RU 19.4.0.0.190716
+      file_name: p29699079_190000_Linux-x86-64.zip
+'1800':
+  opatch_file: p6880880_180000_Linux-x86-64.zip
+  patches:
+    April 2021 (210520):
+      patch_id: 32579022
+      description: COMBO OF OJVM RU COMPONENT 18.14.0.0.210420 + DB RU 18.14.0.0.210420
+      file_name: p32579022_180000_Linux-x86-64.zip
+    January 2021 (210119):
+      patch_id: 32126855
+      description: Combo of OJVM Component Release Update 18.13.0.0.210119 + Database Jan 2021 Release Update 18.13.0.0.210119
+      file_name: p32126855_180000_Linux-x86-64.zip
+    October 2020 (201020):
+      patch_id: 31720435
+      description: COMBO OF OJVM RU COMPONENT 18.12.0.0.201020 + DB RU 18.12.0.0.201020
+      file_name: p31720435_180000_Linux-x86-64.zip
+    July 2020 (200714):
+      patch_id: 31326374
+      description: COMBO OF OJVM RU COMPONENT 18.11.0.0.200714  DB RU 18.11.0.0.200714
+      file_name: p31326374_180000_Linux-x86-64.zip
+    April 2020 (200414):
+      patch_id: 30783603
+      description: COMBO OF OJVM RU COMPONENT 18.10.0.0.200414 + DB RU 18.10.0.0.200414
+      file_name: p30783603_180000_Linux-x86-64.zip
+    January 2020 (200114):
+      patch_id: 30463620
+      description: COMBO OF OJVM RU COMPONENT 18.9.0.0.200114 DB RU 18.9.0.0.200114
+      file_name: p30463620_180000_Linux-x86-64.zip
+    October 2019 (191015):
+      patch_id: 30133203
+      description: COMBO OF OJVM RU COMPONENT 18.8.0.0.191015 DB RU 18.8.0.0
+      file_name: p30133203_180000_Linux-x86-64.zip
+    July 2019 (190716):
+      patch_id: 29699112
+      description: COMBO OF OJVM RU COMPONENT 18.7.0.0.190716 + DB RU 18.7.0.0.190716
+      file_name: p29699112_180000_Linux-x86-64.zip
+    April 2019 (190416):
+      patch_id: 29249695
+      description: COMBO OF OJVM RU COMPONENT 18.6.0.0.190416 + DB RU 18.6.0.0.190416
+      file_name: p29249695_180000_Linux-x86-64.zip
+    January 2019 (190115):
+      patch_id: 28980087
+      description: Combo of OJVM RU 18.5.0.0.190115 + DB RU 18.5.0.0.190115
+      file_name: p28980087_180000_Linux-x86-64.zip
+    October 2018 (181016):
+      patch_id: 28689117
+      description: COMBO OF OJVM RU COMPONENT 18.4.0.0.181016 + DB RU 18.4.0.0.181016 
+      file_name: p28689117_180000_Linux-x86-64.zip
+'12201':
+  opatch_file: p6880880_122010_Linux-x86-64.zip
+  patches:
+    October 2021 (211019):
+      patch_id: 33248521 
+      description: Combo of OJVM Component Release Update 12.2.0.1.211019 + Database Oct 2021 Release Update 12.2.0.1.211019 
+      file_name: p33248521_122010_Linux-x86-64.zip
+    July 2021 (210720):
+      patch_id: 32900144 
+      description: Combo OJVM Release Update 12.2.0.1.210720 and Database Release Update 12.2.0.1.210720
+      file_name: p32900144_122010_Linux-x86-64.zip
+    April 2021 (210520):
+      patch_id: 32579049 
+      description: COMBO OF OJVM RU COMPONENT 12.2.0.1.210420 + 12.2.0.1.210420 DBAPR2021RU
+      file_name: p32579049_122010_Linux-x86-64.zip
+    January 2021 (201020):
+      patch_id: 321226871
+      description: Combo of OJVM Component Release Update 12.2.0.1.210119 + Database Jan 2021 Release Update 12.2.0.1.210119
+      file_name: p32126871_122010_Linux-x86-64.zip
+    October 2020 (201020):
+      patch_id: 31720473
+      description: COMBO OF OJVM RU COMPONENT 12.2.0.1.201020 + 12.2.0.1.201020 DBOCT2020RU
+      file_name: p31720473_122010_Linux-x86-64.zip
+    July 2020 (200714):
+      patch_id: 31326379
+      description: COMBO OF OJVM RU COMPONENT 12.2.0.1.200714 12.2.0.1.200714 DBJUL2020RU
+      file_name: p31326379_122010_Linux-x86-64.zip
+    April 2020 (200414):
+      patch_id: 30783641
+      description: COMBO OF OJVM RU COMPONENT 12.2.0.1.200414 12.2.0.1.200414 DBAPR2020RU
+      file_name: p30783641_122010_Linux-x86-64.zip
+    January 2020 (200114):
+      patch_id: 30463660
+      description: COMBO OF OJVM RU COMPONENT 12.2.0.1.200114 12.2.0.1.200114 DBJAN2020RU
+      file_name: p30463660_122010_Linux-x86-64.zip
+    October 2019 (191015):
+      patch_id: 30133374
+      description: COMBO OF OJVM RU COMPONENT 12.2.0.1.191015 12.2.0.1.19101
+      file_name: p30133374_122010_Linux-x86-64.zip
+    July 2019 (190716):
+      patch_id: 29699168
+      description: COMBO OF OJVM RU COMPONENT 12.2.0.1.190716 + 12.2.0.1.190716 DBJUL2019RU
+      file_name: p29699168_122010_Linux-x86-64.zip
+    April 2019 (190416):
+      patch_id: 29252035
+      description: COMBO OF OJVM RU COMPONENT 12.2.0.1.190416 + 12.2.0.1.190416 DBAPR2019RU
+      file_name: p29252035_122010_Linux-x86-64.zip
+    January 2019 (190115):
+      patch_id: 28980102
+      description: COMBO OF OJVM RU COMPONENT 12.2.0.1.190115 + 12.2.0.1.190115 DBJAN2019RU
+      file_name: p28980102_122010_Linux-x86-64.zip
+    October 2018 (181016):
+      patch_id: 28689128
+      description: COMBO OF OJVM RU COMPONENT 12.2.0.1.181016 + 12.2.0.1.181016 DBOCT2018RU
+      file_name: p28689128_122010_Linux-x86-64.zip
+    July 2018 (180717):
+      patch_id: 28317292
+      description: COMBO OF OJVM RU COMPONENT 12.2.0.1.180717 + 12.2.0.1.180717 DBJUL2018RU
+      file_name: p28317292_122010_Linux-x86-64.zip
+    April 2018 (180417):
+      patch_id: 27726453
+      description: COMBO OF OJVM RU COMPONENT 12.2.0.1.180417 + DBRU 12.2.0.1.180417
+      file_name: p27726453_122010_Linux-x86-64.zip
+    January 2018 (180116):
+      patch_id: 27010695
+      description: COMBO OF OJVM RU COMPONENT 12.2.0.1.180116 + DBRU 12.2.0.1.180116
+      file_name: p27010695_122010_Linux-x86-64.zip
+'12102':
+  opatch_file: p6880880_122010_Linux-x86-64.zip
+  patches:
+    July 2019 (190716):
+      patch_id: 29699220
+      description: COMBO OF OJVM COMPONENT 12.1.0.2.190716 DB PSU + DBPSU 12.1.0.2.190716
+      file_name: p29699220_121020_Linux-x86-64.zip
+    April 2019 (190416):
+      patch_id: 29252146
+      description: COMBO OF OJVM COMPONENT 12.1.0.2.190416 DB PSU + DBPSU 12.1.0.2.190416
+      file_name: p29252146_121020_Linux-x86-64.zip
+    January 2019 (190115):
+      patch_id: 28980115
+      description: COMBO OF OJVM COMPONENT 12.1.0.2.190115 DB PSU + DBPSU 12.1.0.2.190115
+      file_name: p28980115_121020_Linux-x86-64.zip
+    October 2018 (12.1.0.2.181016):
+      patch_id: 28689146
+      description: COMBO OF OJVM COMPONENT 12.1.0.2.181016 DB PSU + DBPSU 12.1.0.2.181016
+      file_name: p28689146_121020_Linux-x86-64.zip
+    July 2018 (12.1.0.2.180717):
+      patch_id: 28317232
+      description: COMBO OF OJVM COMPONENT 12.1.0.2.180717 DB PSU + DBPSU 12.1.0.2.180717
+      file_name: p28317232_121020_Linux-x86-64.zip
+    April 2018 (12.1.0.2.180417):
+      patch_id: 27726471
+      description: COMBO OF OJVM COMPONENT 12.1.0.2.180417 DBPSU + DBPSU 12.1.0.2.180417
+      file_name: p27726471_121020_Linux-x86-64.zip
+    January 2018 (12.1.0.2.180116):
+      patch_id: 27010839
+      description: COMBO OF OJVM COMPONENT 12.1.0.2.180116 DBPSU + DBPSU 12.1.0.2.180116 (JAN2018)
+      file_name: p27010839_121020_Linux-x86-64.zip
+    October 2017 (12.1.0.2.171017):
+      patch_id: 26636270
+      description: COMBO OF OJVM COMPONENT 12.1.0.2.171017 DBPSU + DBPSU 12.1.0.2.171017 (OCT2017)
+      file_name: p26636270_121020_Linux-x86-64.zip
+    July 2017 (12.1.0.2.170718):
+      patch_id: 25901056
+      description: COMBO OF OJVM COMPONENT 12.1.0.2.170718 DBPSU + DBPSU 12.1.0.2.170718 (JUL2017)
+      file_name: p25901056_121020_Linux-x86-64.zip
+    April 2017 (12.1.0.2.170418):
+      patch_id: 25433980
+      description: COMBO OF OJVM COMPONENT 12.1.0.2.170418 DBPSU + DBPSU 12.1.0.2.170418 (APR2017)
+      file_name: p25433980_121020_Linux-x86-64.zip
+    January 2017 (12.1.0.2.170117):
+      patch_id: 24917069
+      description: COMBO OF OJVM COMPONENT 12.1.0.2.170117 DBPSU + DBPSU 12.1.0.2.170117 (JAN2017)
+      file_name: p24917069_121020_Linux-x86-64.zip
+    October 2016 (12.1.0.2.161018):
+      patch_id: 24433133
+      description: COMBO OF OJVM COMPONENT 12.1.0.2.161018 DBPSU + DBPSU 12.1.0.2.161018 (OCT2016)
+      file_name: p24433133_121020_Linux-x86-64.zip
+    July 2016 (12.1.0.2.160719):
+      patch_id: 23615289
+      description: COMBO OF OJVM COMPONENT 12.1.0.2.160719 DBPSU + DBPSU 12.1.0.2.160719 (JUL2016)
+      file_name: p23615289_121020_Linux-x86-64.zip
+    April 2016 (12.1.0.2.160419):
+      patch_id: 22738582
+      description: COMBO OF OJVM COMPONENT 12.1.0.2.160419 DBPSU + DBPSU 12.1.0.2.160419 (APR2016)
+      file_name: p22738582_121020_Linux-x86-64.zip
+    January 2016 (12.1.0.2.160119):
+      patch_id: 22191659
+      description: COMBO OF OJVM COMPONENT 12.1.0.2.160119 DBPSU + DBPSU 12.1.0.2.160119 (JAN2016)
+      file_name: p22191659_121020_Linux-x86-64.zip
+    October 2015 (12.1.0.2.5):
+      patch_id: 21520444
+      description: COMBO OF OJVM COMPONENT 12.1.0.2.5 DB PSU + DB PSU 12.1.0.2.5 (OCT2015)
+      file_name: p21520444_121020_Linux-x86-64.zip
+    July 2015 (12.1.0.2.4):
+      patch_id: 21150768
+      description: COMBO OF OJVM COMPONENT 12.1.0.2.4 DB PSU + DB PSU 12.1.0.2.4 (JUL2015)
+      file_name: p21150768_121020_Linux-x86-64.zip
+    April 2015 (12.1.0.2.3):
+      patch_id: 20834354
+      description: COMBO OF OJVM COMPONENT 12.1.0.2.3 DB PSU + DB PSU 12.1.0.2.3 (APR2015)
+      file_name: p20834354_121020_Linux-x86-64.zip
+    January 2015 (12.1.0.2.2):
+      patch_id: 20132434
+      description: COMBO OF OJVM COMPONENT 12.1.0.2.2 DB PSU + DB PSU 12.1.0.2.2
+      file_name: p20132434_121020_Linux-x86-64.zip
+    October 2014 (12.1.0.2.1):
+      patch_id: 19791366
+      description: Combo OJVM PSU 12.1.0.2.1 and Database PSU 12.1.0.2.1
+      file_name: p19791366_121020_Linux-x86-64.zip
+'12101':
+  opatch_file: p6880880_121010_Linux-x86-64.zip
+  patches:
+    January 2015 (12.1.0.1.6):
+      patch_id: 20132482
+      description: COMBO OF OJVM COMPONENT 12.1.0.1.2 DB PSU + DB PSU 12.1.0.1.6
+      file_name: p20132482_121010_Linux-x86-64.zip
+    October 2014 (12.1.0.1.5):
+      patch_id: 19791363
+      description: Combo OJVM PSU 12.1.0.1.1 and Database PSU 12.1.0.1.5
+      file_name: p19791363_121010_Linux-x86-64.zip
+    July 2014 (12.1.0.1.4):
+      patch_id: 18522516
+      description: Database 12.1.0.1.4 PSU
+      file_name: p18522516_121010_Linux-x86-64.zip
+'11204':
+  opatch_file: p6880880_112000_Linux-x86-64.zip
+  patches:
+    October 2018 (11.2.0.4.181016):
+      patch_id: 28689165
+      description: COMBO OF OJVM COMPONENT 11.2.0.4.181016 DBPSU + DBPSU 11.2.0.4.181016
+      file_name: p28689165_112040_Linux-x86-64.zip
+    July 2018 (11.2.0.4.180717):
+      patch_id: 28317183
+      description: COMBO OF OJVM COMPONENT 11.2.0.4.180717 DBPSU + DBPSU 11.2.0.4.180717
+      file_name: p28317183_112040_Linux-x86-64.zip
+    April 2018 (11.2.0.4.180417):
+      patch_id: 27726500
+      description: COMBO OF OJVM COMPONENT 11.2.0.4.180417 DBPSU + DBPSU 11.2.0.4.180417
+      file_name: p27726500_112040_Linux-x86-64.zip
+    January 2018 (11.2.0.4.1808116):
+      patch_id: 27011017
+      description: COMBO OF OJVM COMPONENT 11.2.0.4.180116 DBPSU + DBPSU 11.2.0.4.180116 (JAN2018)
+      file_name: p27011017_112040_Linux-x86-64.zip
+    October 2017 (11.2.0.4.171017):
+      patch_id: 26636031
+      description: COMBO OF OJVM COMPONENT 11.2.0.4.171017 DBPSU + DBPSU 11.2.0.4.171017 (OCT2017)
+      file_name: p26636031_112040_Linux-x86-64.zip
+    July 2017 (11.2.0.4.170718):
+      patch_id: 26031209
+      description: COMBO OF OJVM COMPONENT 11.2.0.4.170718 DBPSU + DBPSU 11.2.0.4.170718 (JUL2017)
+      file_name: p26031209_112040_Linux-x86-64.zip
+    April 2017 (11.2.0.4.170418):
+      patch_id: 25440428
+      description: COMBO OF OJVM COMPONENT 11.2.0.4.170418 DBPSU + DBPSU 11.2.0.4.170418 (APR2017)
+      file_name: p25440428_112040_Linux-x86-64.zip
+    January 2017 (11.2.0.4.170117):
+      patch_id: 24918033
+      description: COMBO OF OJVM COMPONENT 11.2.0.4.170117 DBPSU (JAN2017) + DBPSU 11.2.0.4.161018 (OCT2016)
+      file_name: p24918033_112040_Linux-x86-64.zip
+    October 2016 (11.2.0.4.161018):
+      patch_id: 24436313
+      description: COMBO OF OJVM COMPONENT 11.2.0.4.161018 DBPSU + DBPSU 11.2.0.4.161018 (OCT2016)
+      file_name: p24436313_112040_Linux-x86-64.zip
+    July 2016 (11.2.0.4.160719):
+      patch_id: 23615392
+      description: COMBO OF OJVM COMPONENT 11.2.0.4.160719 DBPSU + DBPSU 11.2.0.4.160719 (JUL2016)
+      file_name: p23615392_112040_Linux-x86-64.zip
+    April 2016 (11.2.0.4.160419):
+      patch_id: 22738777
+      description: COMBO OF OJVM COMPONENT 11.2.0.4.160419 DB PSU + DB PSU 11.2.0.4.1604 (APR2016)
+      file_name: p22738777_112040_Linux-x86-64.zip
+    January 2016 (11.2.0.4.160119):
+      patch_id: 22378146
+      description: COMBO OF OJVM COMPONENT 11.2.0.4.160119 DB PSU + DB PSU 11.2.0.4.1601 (JAN2016)
+      file_name: p22378146_112040_Linux-x86-64.zip
+    October 2015 (11.2.0.4.8):
+      patch_id: 21744343
+      description: COMBO OF OJVM COMPONENT 11.2.0.4.5 DB PSU + DB PSU 11.2.0.4.8 (OCT2015)
+      file_name: p21744343_112040_Linux-x86-64.zip
+    July 2015 (11.2.0.4.7):
+      patch_id: 21150851
+      description: COMBO OF OJVM COMPONENT 11.2.0.4.4 DB PSU + DB PSU 11.2.0.4.7 (JUL2015)
+      file_name: p21150851_112040_Linux-x86-64.zip
+    April 2015 (11.2.0.4.6):
+      patch_id: 20834611
+      description: COMBO OF OJVM COMPONENT 11.2.0.4.3 DB PSU + DB PSU 11.2.0.4.6 (APR2015)
+      file_name: p20834611_112040_Linux-x86-64.zip
+    January 2015 (11.2.0.4.5):
+      patch_id: 20132580
+      description: COMBO OF OJVM COMPONENT 11.2.0.4.2 DB PSU + DB PSU 11.2.0.4.5
+      file_name: p20132580_112040_Linux-x86-64.zip
+    October 2014 (11.2.0.4.4):
+      patch_id: 19791364
+      description: Combo OJVM PSU 11.2.0.4.1 and Database PSU 11.2.0.4.4
+      file_name: p19791364_112040_Linux-x86-64.zip
+    July 2014 (11.2.0.4.3):
+      patch_id: 18522509
+      description: Database 11.2.0.4.3 PSU
+      file_name: p18522509_112040_Linux-x86-64.zip
+'11203':
+  opatch_file: p6880880_112000_Linux-x86-64.zip
+  patches:
+    July 2015 (11.2.0.3.15):
+      patch_id: 21150891
+      description: COMBO OF OJVM COMPONENT 11.2.0.3.4 DB PSU + DB PSU 11.2.0.3.15 (JUL2015)
+      file_name: p21150891_112030_Linux-x86-64.zip
+    April 2015 (11.2.0.3.14):
+      patch_id: 20834670
+      description: COMBO OF OJVM COMPONENT 11.2.0.3.3 DB PSU + DB PSU 11.2.0.3.14 (APR2015)
+      file_name: p20834670_112030_Linux-x86-64.zip
+    January 2015 (11.2.0.3.13):
+      patch_id: 20132646
+      description: COMBO OF OJVM COMPONENT 11.2.0.3.2 DB PSU + DB PSU 11.2.0.3.13
+      file_name: p20132646_112030_Linux-x86-64.zip
+    October 2014 (11.2.0.3.12):
+      patch_id: 19791427
+      description: Combo OJVM PSU 11.2.0.3.1 and Database PSU 11.2.0.3.12
+      file_name: p19791427_112030_Linux-x86-64.zip
+    July 2014 (11.2.0.3.11):
+      patch_id: 18522512
+      description: Database 11.2.0.3.11 PSU
+      file_name: p18522512_112030_Linux-x86-64.zip
+'11107':
+  opatch_file: p6880880_111000_Linux-x86-64.zip
+  patches:
+    January 2015 (11.1.0.7.22):
+      patch_id: 20132677
+      description: COMBO OF OJVM COMPONENT 11.1.0.7.2 DB PSU + DB PSU 11.1.0.7.22
+      file_name: p20132677_111070_Linux-x86-64.zip
+    October 2014 (11.2.0.7.21):
+      patch_id: 19791436
+      description: Combo OJVM PSU 11.1.0.7.1 and Database PSU 11.2.0.7.21
+      file_name: p19791436_111070_Linux-x86-64.zip
+    July 2014 (11.1.0.7.20):
+      patch_id: 18522513
+      description: Database 11.1.0.7.20 PSU
+      file_name: p18522513_111070_Linux-x86-64.zip
+
+# vim: set expandtab number relativenumber tabstop=2 shiftwidth=2 autoindent smartindent:

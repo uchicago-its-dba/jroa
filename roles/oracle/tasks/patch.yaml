@@ -1,0 +1,18 @@
+---
+- name: Create the admin/scripts/patches directory
+  file:
+    path: "{{ scripts_directory }}/patches"
+    mode: 0700
+    state: directory
+
+- name: Deploy patch scripts
+  copy:
+    src: "patch/{{ item }}"
+    dest: "{{ scripts_directory }}/patches/{{ item }}"
+    owner: oracle
+    group: dba
+    mode: 0700
+  loop:
+    - patches.py
+    - post_patch.sh
+    - uc_patch.yaml
